@@ -31,6 +31,3 @@ The AI system follows a decision-making process that includes:
 ## Conclusion
 
 Integrating a semantic network into smart home systems enhances their responsiveness and user experience, allowing for a personalized and efficient environment that adapts to the occupants' needs. This approach facilitates seamless interactions between users and technology, maximizing comfort and convenience.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/30811929/502a192f-a4b1-44e6-9070-b1876d9312b9/3A-BAGALSO-MP1.pdf
