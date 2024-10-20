@@ -1,13 +1,13 @@
-#CSST 101
+# CSST 101
 
 
 ---
 
-###**Name**: Riana Alexis C. Bagalso
+### **Name**: Riana Alexis C. Bagalso
 
-###**Section**: BSCS 3A-IS
+### **Section**: BSCS 3A-IS
 
-###**Instrctor**: Sir Mark Bernardino, Sir Romel Serrano
+### **Instrctor**: Sir Mark Bernardino, Sir Romel Serrano
 
 
 ---
