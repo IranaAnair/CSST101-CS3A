@@ -17,18 +17,18 @@
 
 *   **Machine Problem No. 1: Exploring the Role of Knowledge Representation in AI.**
   
-  Understand the importance of knowledge representation in Artificial Intelligence (AI) and explore how it  enables AI systems to reason, learn, and make decisions. 
+    Understand the importance of knowledge representation in Artificial Intelligence (AI) and explore how it  enables AI systems to reason, learn, and make decisions. 
 
-  [Video Link](https://www.canva.com/design/DAGP2hTLqU8/zPHFH23EL-wUQqDjCj0MOg/view?utm_content=DAGP2hTLqU8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+    [Video Link](https://www.canva.com/design/DAGP2hTLqU8/zPHFH23EL-wUQqDjCj0MOg/view?utm_content=DAGP2hTLqU8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-  [Activity Link](https://github.com/IranaAnair/CSST101-CS3A/blob/main/3A-BAGALSO-MP1.md)
+    [Activity Link](https://github.com/IranaAnair/CSST101-CS3A/blob/main/3A-BAGALSO-MP1.md)
 *   **Machine Problem No. 2: Implementing a Logic-Based Model in Python.**
 
-  Implement propositional and predicate logic in Python to understand the fundamental operations of logic-based representation and its application in AI.
+    Implement propositional and predicate logic in Python to understand the fundamental operations of logic-based representation and its application in AI.
 
-  [Colab Link](https://colab.research.google.com/drive/1vGIYk7avTdAtSqcI8CgqpMQryL2mAy-a)
+    [Colab Link](https://colab.research.google.com/drive/1vGIYk7avTdAtSqcI8CgqpMQryL2mAy-a)
 
-  [Activity Link](https://github.com/IranaAnair/CSST101-CS3A/blob/main/3A-BAGALSO-MP2.ipynb)
+    [Activity Link](https://github.com/IranaAnair/CSST101-CS3A/blob/main/3A-BAGALSO-MP2.ipynb)
 
 * **Machine Problem No. 3: Interactive Probability and Decision-Making in AI.**
 
@@ -47,7 +47,7 @@
   [Activity Link](https://github.com/IranaAnair/CSST101-CS3A/blob/main/3A-BAGALSO-HEALTH-MP4.ipynb)
 
 ---
-**Exercises**
+***Exercises***
 
 * **Exercise 1: Propositional Logic in Python**
 
