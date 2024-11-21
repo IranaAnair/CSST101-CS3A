@@ -46,6 +46,14 @@
 
   [Activity Link](https://github.com/IranaAnair/CSST101-CS3A/blob/main/3A-BAGALSO-HEALTH-MP4.ipynb)
 
+* **Machine Problem No. 7: Markov decision processes** 
+
+  Topic 3.2: Advanced Probabilistic Models
+
+  [Colab Link](https://colab.research.google.com/drive/1rZCr7JrXpJ_8kcUhsaD_2n3IyEAvOzdz?usp=sharing)
+
+  [Activity Link](https://github.com/IranaAnair/CSST101-CS3A/blob/main/3A-BAGALSO-MP7.ipynb)
+
 ---
 ***Exercises***
 
@@ -80,3 +88,11 @@
   [Colab Link](https://colab.research.google.com/drive/1-dSK6tnl-nbUk8UxNjE8GSvfYl3dLuW5)
 
   [Activity Link](https://github.com/IranaAnair/CSST101-CS3A/blob/main/3A_BAGALSO_EXER4.ipynb)
+
+* **Exercise No. 7: Markov decision processes** 
+
+  Topic 3.2: Advanced Probabilistic Models
+
+  [Colab Link](https://colab.research.google.com/drive/17ClM6mRntRE2inO64T9hNpYnSy_O_Eew?usp=sharing)
+
+  [Activity Link](https://github.com/IranaAnair/CSST101-CS3A/blob/main/3A-BAGALSO-EXER7.ipynb)
